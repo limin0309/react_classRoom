@@ -11,7 +11,7 @@ yarn add webpack webpack-dev-server html-webpack-plugin --dev
 
 babel
 yarn add babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 babel-plugin-transform-decorators-legacy --dev
- // 注意：babel-plugin-transform-decorators-legacy包找不到，所以没有安装
+
 
 图片和less
 yarn add css-loader style-loader less-loader less file-loader url-loader --dev
