@@ -5,6 +5,9 @@
   "repository": "https://github.com/limin0309/react_classRoom.git",
   "author": "李敏 <13693576511@163.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
   "dependencies": {
     "es6-promise": "^4.2.6",
     "history": "^4.9.0",
@@ -38,6 +41,7 @@
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2",
     "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.2.1"
   }
 }
